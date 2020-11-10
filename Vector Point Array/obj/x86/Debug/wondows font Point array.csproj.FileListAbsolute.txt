@@ -1,0 +1,18 @@
+C:\Documents and Settings\cms_debug\Desktop\New Folder\wondows font Point array\wondows font Point array\bin\Debug\wondows font Point array.exe
+C:\Documents and Settings\cms_debug\Desktop\New Folder\wondows font Point array\wondows font Point array\bin\Debug\wondows font Point array.pdb
+C:\Documents and Settings\cms_debug\Desktop\New Folder\wondows font Point array\wondows font Point array\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cms_debug\Desktop\New Folder\wondows font Point array\wondows font Point array\obj\x86\Debug\wondows_font_Point_array.Form1.resources
+C:\Documents and Settings\cms_debug\Desktop\New Folder\wondows font Point array\wondows font Point array\obj\x86\Debug\wondows_font_Point_array.Properties.Resources.resources
+C:\Documents and Settings\cms_debug\Desktop\New Folder\wondows font Point array\wondows font Point array\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\cms_debug\Desktop\New Folder\wondows font Point array\wondows font Point array\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\cms_debug\Desktop\New Folder\wondows font Point array\wondows font Point array\obj\x86\Debug\wondows font Point array.exe
+C:\Documents and Settings\cms_debug\Desktop\New Folder\wondows font Point array\wondows font Point array\obj\x86\Debug\wondows font Point array.pdb
+P:\HELPERS\ROTATE pOYGON fONT\wondows font Point array\wondows font Point array\obj\x86\Debug\wondows font Point array.exe
+P:\HELPERS\ROTATE pOYGON fONT\wondows font Point array\wondows font Point array\obj\x86\Debug\wondows font Point array.pdb
+P:\HELPERS\ROTATE pOYGON fONT\wondows font Point array\wondows font Point array\bin\Debug\wondows font Point array.exe
+P:\HELPERS\ROTATE pOYGON fONT\wondows font Point array\wondows font Point array\bin\Debug\wondows font Point array.pdb
+P:\HELPERS\ROTATE pOYGON fONT\wondows font Point array\wondows font Point array\obj\x86\Debug\ResolveAssemblyReference.cache
+P:\HELPERS\ROTATE pOYGON fONT\wondows font Point array\wondows font Point array\obj\x86\Debug\wondows_font_Point_array.Form1.resources
+P:\HELPERS\ROTATE pOYGON fONT\wondows font Point array\wondows font Point array\obj\x86\Debug\wondows_font_Point_array.Properties.Resources.resources
+P:\HELPERS\ROTATE pOYGON fONT\wondows font Point array\wondows font Point array\obj\x86\Debug\GenerateResource.read.1.tlog
+P:\HELPERS\ROTATE pOYGON fONT\wondows font Point array\wondows font Point array\obj\x86\Debug\GenerateResource.write.1.tlog

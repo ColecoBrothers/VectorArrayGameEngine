@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vector Point Array", "Vector Point Array\Vector Point Array.csproj", "{1266703F-2869-40F3-A12A-FAF59A3B4854}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1266703F-2869-40F3-A12A-FAF59A3B4854}.Debug|x86.ActiveCfg = Debug|x86
+		{1266703F-2869-40F3-A12A-FAF59A3B4854}.Debug|x86.Build.0 = Debug|x86
+		{1266703F-2869-40F3-A12A-FAF59A3B4854}.Release|x86.ActiveCfg = Release|x86
+		{1266703F-2869-40F3-A12A-FAF59A3B4854}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		BuildVersion_AssemblyInfoFilename = windows font point array\Properties\AssemblyInfo.cs
+		BuildVersion_UpdateAssemblyVersion = True
+		BuildVersion_UpdateFileVersion = True
+	EndGlobalSection
+EndGlobal

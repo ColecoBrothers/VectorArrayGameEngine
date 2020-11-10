@@ -1,0 +1,38 @@
+P:\HELPERS\ROTATE pOYGON fONT\wondows font Point array\windows font point array\obj\x86\Debug\wondows font Point array.exe
+P:\HELPERS\ROTATE pOYGON fONT\wondows font Point array\windows font point array\obj\x86\Debug\wondows font Point array.pdb
+P:\HELPERS\ROTATE pOYGON fONT\windows font point array\windows font point array\obj\x86\Debug\wondows font Point array.exe
+P:\HELPERS\ROTATE pOYGON fONT\windows font point array\windows font point array\obj\x86\Debug\wondows font Point array.pdb
+P:\HELPERS\ROTATE pOYGON fONT\windows font point array\windows font point array\bin\Debug\wondows font Point array.exe
+P:\HELPERS\ROTATE pOYGON fONT\windows font point array\windows font point array\bin\Debug\wondows font Point array.pdb
+P:\HELPERS\ROTATE pOYGON fONT\windows font point array\windows font point array\obj\x86\Debug\ResolveAssemblyReference.cache
+P:\HELPERS\ROTATE pOYGON fONT\windows font point array\windows font point array\obj\x86\Debug\wondows_font_Point_array.Form1.resources
+P:\HELPERS\ROTATE pOYGON fONT\windows font point array\windows font point array\obj\x86\Debug\wondows_font_Point_array.Properties.Resources.resources
+P:\HELPERS\ROTATE pOYGON fONT\windows font point array\windows font point array\obj\x86\Debug\GenerateResource.read.1.tlog
+P:\HELPERS\ROTATE pOYGON fONT\windows font point array\windows font point array\obj\x86\Debug\GenerateResource.write.1.tlog
+P:\HELPERS\ROTATE pOYGON fONT\windows font point array Vector\windows font point array\obj\x86\Debug\wondows font Point array.exe
+P:\HELPERS\ROTATE pOYGON fONT\windows font point array Vector\windows font point array\obj\x86\Debug\wondows font Point array.pdb
+P:\HELPERS\ROTATE pOYGON fONT\windows font point array Vector\windows font point array\bin\Debug\wondows font Point array.exe
+P:\HELPERS\ROTATE pOYGON fONT\windows font point array Vector\windows font point array\bin\Debug\wondows font Point array.pdb
+P:\HELPERS\ROTATE pOYGON fONT\windows font point array Vector\windows font point array\obj\x86\Debug\ResolveAssemblyReference.cache
+P:\HELPERS\ROTATE pOYGON fONT\windows font point array Vector\windows font point array\obj\x86\Debug\wondows_font_Point_array.Form1.resources
+P:\HELPERS\ROTATE pOYGON fONT\windows font point array Vector\windows font point array\obj\x86\Debug\wondows_font_Point_array.Properties.Resources.resources
+P:\HELPERS\ROTATE pOYGON fONT\windows font point array Vector\windows font point array\obj\x86\Debug\GenerateResource.read.1.tlog
+P:\HELPERS\ROTATE pOYGON fONT\windows font point array Vector\windows font point array\obj\x86\Debug\GenerateResource.write.1.tlog
+P:\_CMS\point array exe\windows font point array V2\windows font point array\obj\x86\Debug\wondows font Point array.exe
+P:\_CMS\point array exe\windows font point array V2\windows font point array\obj\x86\Debug\wondows font Point array.pdb
+P:\_CMS\point array exe\windows font point array\windows font point array\bin\Debug\windows font Point array.exe
+P:\_CMS\point array exe\windows font point array\windows font point array\bin\Debug\windows font Point array.pdb
+P:\_CMS\point array exe\windows font point array\windows font point array\obj\x86\Debug\ResolveAssemblyReference.cache
+P:\_CMS\point array exe\windows font point array\windows font point array\obj\x86\Debug\windows_font_Point_array.Form1.resources
+P:\_CMS\point array exe\windows font point array\windows font point array\obj\x86\Debug\windows_font_Point_array.Properties.Resources.resources
+P:\_CMS\point array exe\windows font point array\windows font point array\obj\x86\Debug\GenerateResource.read.1.tlog
+P:\_CMS\point array exe\windows font point array\windows font point array\obj\x86\Debug\GenerateResource.write.1.tlog
+P:\_CMS\point array exe\windows font point array\windows font point array\obj\x86\Debug\windows font Point array.exe
+P:\_CMS\point array exe\windows font point array\windows font point array\obj\x86\Debug\windows font Point array.pdb
+P:\_CMS\point array exe\windows font point array\windows font point array\obj\x86\Debug\windows_font_Point_array.Form2.resources
+P:\_CMS\point array exe\windows font point array\windows font point array\bin\Debug\windows font Point array.exe.config
+P:\_CMS\point array exe\windows font point array\windows font point array\obj\x86\Debug\windows_font_Point_array.Form3.resources
+P:\_CMS\point array exe\windows font point array\windows font point array\obj\x86\Debug\windows_font_Point_array.Form4.resources
+P:\_CMS\Vector Point Array\Vecotor point array\windows font point array\bin\Debug\windows font Point array.exe.config
+P:\_CMS\Vector Point Array\Vecotor point array\windows font point array\obj\x86\Debug\windows font Point array.exe
+P:\_CMS\Vector Point Array\Vecotor point array\windows font point array\obj\x86\Debug\windows font Point array.pdb

@@ -1,0 +1,26 @@
+P:\_CMS\Vector Point Array\Vecotor point array\windows font point array\obj\x86\Debug\ResolveAssemblyReference.cache
+P:\_CMS\Vector Point Array\Vecotor point array\windows font point array\obj\x86\Debug\GenerateResource.read.1.tlog
+P:\_CMS\Vector Point Array\Vecotor point array\windows font point array\obj\x86\Debug\GenerateResource.write.1.tlog
+P:\_CMS\Vector Point Array\Vecotor point array\windows font point array\bin\Debug\VectorPointArrays.exe.config
+P:\_CMS\Vector Point Array\Vecotor point array\windows font point array\obj\x86\Debug\Vector_Point_Array.Form2.resources
+P:\_CMS\Vector Point Array\Vecotor point array\windows font point array\obj\x86\Debug\Vector_Point_Array.Form1.resources
+P:\_CMS\Vector Point Array\Vecotor point array\windows font point array\obj\x86\Debug\Vector_Point_Array.Form3.resources
+P:\_CMS\Vector Point Array\Vecotor point array\windows font point array\obj\x86\Debug\Vector_Point_Array.Properties.Resources.resources
+P:\_CMS\Vector Point Array\Vecotor point array\windows font point array\bin\Debug\VectorPointArrays.exe
+P:\_CMS\Vector Point Array\Vecotor point array\windows font point array\bin\Debug\VectorPointArrays.pdb
+P:\_CMS\Vector Point Array\Vecotor point array\windows font point array\obj\x86\Debug\Vector_Point_Array.frmGameField.resources
+P:\_CMS\Vector Point Array\Vecotor point array\windows font point array\obj\x86\Debug\VectorPointArrays.exe
+P:\_CMS\Vector Point Array\Vecotor point array\windows font point array\obj\x86\Debug\VectorPointArrays.pdb
+P:\_CMS\Vector Point Array\Vecotor point array\Vector Point Array\bin\Debug\VectorPointArrays.exe.config
+P:\_CMS\Vector Point Array\Vecotor point array\Vector Point Array\obj\x86\Debug\VectorPointArrays.exe
+P:\_CMS\Vector Point Array\Vecotor point array\Vector Point Array\obj\x86\Debug\VectorPointArrays.pdb
+P:\_CMS\Vector Point Array\Vecotor point array\Vector Point Array\bin\Debug\VectorPointArrays.exe
+P:\_CMS\Vector Point Array\Vecotor point array\Vector Point Array\bin\Debug\VectorPointArrays.pdb
+P:\_CMS\Vector Point Array\Vecotor point array\Vector Point Array\obj\x86\Debug\ResolveAssemblyReference.cache
+P:\_CMS\Vector Point Array\Vecotor point array\Vector Point Array\obj\x86\Debug\Vector_Point_Array.frmGameField.resources
+P:\_CMS\Vector Point Array\Vecotor point array\Vector Point Array\obj\x86\Debug\Vector_Point_Array.Form2.resources
+P:\_CMS\Vector Point Array\Vecotor point array\Vector Point Array\obj\x86\Debug\Vector_Point_Array.Form1.resources
+P:\_CMS\Vector Point Array\Vecotor point array\Vector Point Array\obj\x86\Debug\Vector_Point_Array.Form3.resources
+P:\_CMS\Vector Point Array\Vecotor point array\Vector Point Array\obj\x86\Debug\Vector_Point_Array.Properties.Resources.resources
+P:\_CMS\Vector Point Array\Vecotor point array\Vector Point Array\obj\x86\Debug\GenerateResource.read.1.tlog
+P:\_CMS\Vector Point Array\Vecotor point array\Vector Point Array\obj\x86\Debug\GenerateResource.write.1.tlog
